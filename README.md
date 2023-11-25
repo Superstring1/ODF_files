@@ -1,2 +1,2 @@
-# ODF_files
+# ODFfiles
 Two ODF files used for manifold learing
